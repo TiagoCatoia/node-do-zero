@@ -9,3 +9,5 @@ O projeto possui dois arquivos de configuração distintos para gerenciar os ban
 ### REST Client
 
 **REST Client** é uma extensão para o Visual Studio que permite enviar requisições HTTP e visualizar a resposta diretamente (em um arquivo .http).
+
+Não fiz o deploy da API, e uma boa opção seria utilizar o [Render](https://dashboard.render.com/), que oferece implantações sem tempo de inatividade.
